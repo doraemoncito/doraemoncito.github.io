@@ -2,7 +2,7 @@
 
 ## Boltzmann Fluid Simulations for HPC
 
-This project contains a number of implementations in C/C++ of a Boltzmann fluid simulation optimised for different environments / platforms in addition to the original serial implementation of the d2q9-bgk lattice Boltzmann scheme.
+This project contains a number of implementations in C/C++ of a Boltzmann fluid simulation optimised for different environments / platforms in addition to the original serial implementation of the [d2q9-bgk lattice Boltzmann scheme](https://en.wikipedia.org/wiki/Lattice_Boltzmann_methods).
 
 The source code is availble for download from [this GitHub repository](https://github.com/doraemoncito/boltzmann).
 
@@ -14,7 +14,7 @@ The source code and sample data are availble for download from [this GitHub repo
 
 ## Noughts & Crosses
 
-Java implementation of a reinforcement learning agent that plays noughts and crosses (tic-tac-toe).
+Java implementation of a reinforcement learning agent that plays [noughts and crosses (tic-tac-toe)](https://en.wikipedia.org/wiki/Tic-tac-toe).
 
 The source code is availble for download from [this GitHub repository](https://github.com/doraemoncito/noughts-and-crosses).
 
