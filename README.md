@@ -1,5 +1,11 @@
 # José's source code repositories
 
+## Boltzmann Fluid Simulations for HPC
+
+This project contains a number of implementations in C/C++ of a Boltzmann fluid simulation optimised for different environments / platforms in addition to the original serial implementation of the d2q9-bgk lattice Boltzmann scheme.
+
+The source code is availble for download from [this GitHub repository](https://github.com/doraemoncito/boltzmann).
+
 ## Naïve Bayes Classifier
 
 A Java implementation of a multi-class Naïve Bayesian classifier for the classification of newsgroup messages. This implementation can be used to detect spam by restricting it to two classes.  A description of the algorithm can be found in the [Machine Learning book](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/mlbook.html) by [Tom Mitchell](http://www.cs.cmu.edu/~tom/) (Published by McGraw-Hill. ISBN: 0071154671).
