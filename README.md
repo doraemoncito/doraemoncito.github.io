@@ -12,6 +12,12 @@ A Java implementation of a multi-class Naïve Bayesian classifier for the classi
 
 The source code and sample data are availble for download from [this GitHub repository](https://github.com/doraemoncito/naivebayes).
 
+## Noughts & Crosses
+
+Java implementation of a reinforcement learning agent that plays noughts and crosses (tic-tac-toe).
+
+The source code is availble for download from [this GitHub repository](https://github.com/doraemoncito/noughts-and-crosses).
+
 ## iFetcher: the visual iPlayer downloader
 
 iFetcher is a small application written in C++/[Qt](https://www.qt.io/) that allows you to download unencrypted [BBC iPlayer](https://www.bbc.co.uk/iplayer) TV programmes to your local hard disk for later viewing.  This utility is particularly useful if your broadband connection is too slow to support video streaming. Downloaded TV programmes can be transferred to an [iPod](https://www.apple.com/ipod-touch/) or [iPhone](https://www.apple.com/iphone/) using [iTunes](https://www.apple.com/itunes/).
